@@ -5,7 +5,7 @@ export const character: Character = {
     // name: "Eliza",
     // plugins: [],
     // clients: [],
-    // modelProvider: ModelProviderName.OPENAI,
+modelProvider: open-r1/olympiccoder-32b:free,
     // settings: {
     //     secrets: {},
     //     voice: {
